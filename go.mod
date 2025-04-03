@@ -10,6 +10,7 @@ require (
 	github.com/greenpau/go-authcrunch v1.0.41
 	go.uber.org/zap v1.25.0
 )
+replace github.com/greenpau/go-authcrunch v1.0.40 => /home/pianorokr/caddy-mods/go-authcrunch
 
 require (
 	filippo.io/edwards25519 v1.0.0 // indirect
